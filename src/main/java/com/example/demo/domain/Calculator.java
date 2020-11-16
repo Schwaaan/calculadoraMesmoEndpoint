@@ -3,7 +3,7 @@ package com.example.demo.domain;
 import lombok.Data;
 
 @Data
-public class Calculadora {
+public class Calculator {
 
   private Integer number1;
   private Integer number2;
